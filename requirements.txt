@@ -1,0 +1,22 @@
+# TriSense AI Dependencies
+# Core Computer Vision & AI
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+
+# Text-to-Speech (TTS)
+pyttsx3>=2.90
+
+# Speech Recognition
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.11
+
+# Audio Processing
+pygame>=2.5.0
+
+# Additional utilities
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Optional: For enhanced voice features
+# gTTS>=2.3.0  # Alternative online TTS
+# mediapipe>=0.10.0  # For gesture recognition
